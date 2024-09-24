@@ -2,5 +2,9 @@
 
 ## Dépôt pour les séances de tavail pratique pour la ressource R5A08 qualité de développement
 
+<<<<<<< HEAD
 ## Travail pratiqul
+=======
+## Travail pratiqu
+>>>>>>> refs/remotes/origin/main
 
