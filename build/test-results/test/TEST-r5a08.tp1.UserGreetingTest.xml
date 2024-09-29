@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="r5a08.tp1.UserGreetingTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-09-24T10:06:17" hostname="einfolearning" time="0.029">
-  <properties/>
-  <testcase name="should_throw_exception_with_name_empty()" classname="r5a08.tp1.UserGreetingTest" time="0.027"/>
-  <testcase name="should_return_correct_greeting_when_name_is_provided()" classname="r5a08.tp1.UserGreetingTest" time="0.002"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
